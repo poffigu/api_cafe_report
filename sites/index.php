@@ -1,6 +1,6 @@
 <?php
 
-header('Content-type: json/application');
+// header('Content-type: json/application');
 
 require 'connect.php';
 
